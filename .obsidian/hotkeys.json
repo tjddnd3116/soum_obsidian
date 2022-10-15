@@ -1,1 +1,35 @@
-{}
+{
+  "editor:delete-paragraph": [],
+  "editor:toggle-source": [
+    {
+      "modifiers": [],
+      "key": "F1"
+    }
+  ],
+  "app:open-help": [],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [],
+      "key": "F2"
+    }
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [],
+      "key": "F3"
+    }
+  ],
+  "workspace:edit-file-title": [],
+  "editor:focus": [
+    {
+      "modifiers": [],
+      "key": "F4"
+    }
+  ],
+  "theme:use-dark": [
+    {
+      "modifiers": [],
+      "key": "F5"
+    }
+  ]
+}

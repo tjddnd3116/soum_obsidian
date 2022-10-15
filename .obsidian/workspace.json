@@ -8,27 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5d019bab7dc89d6c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "f4a88ff9bd432f71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "42/webserv/kiii.md",
+                "file": "2022-10-15.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "63d6a8cd8a1213db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "42/webserv/RFC 7230.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3a7b8fb2373e2069",
@@ -94,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "42/webserv/kiii.md",
+                "file": "2022-10-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "42/webserv/kiii.md",
+                "file": "2022-10-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "42/webserv/kiii.md"
+                "file": "2022-10-15.md"
               }
             }
           }
@@ -150,13 +154,15 @@
   },
   "active": "f4a88ff9bd432f71",
   "lastOpenFiles": [
+    "42/webserv/RFC 7230.md",
     "2022-10-15.md",
-    "42/webserv/socket.md",
+    "무제파일.md",
+    "42/inception/docker 명령어.md",
+    "42/webserv/epoll.md",
+    "42/webserv/connect.md",
+    "42/webserv/bind.md",
     "42/webserv/accept.md",
-    "screenshot.jpg",
-    "2022-10-14.md",
-    "2022-10-08.md",
-    "42/ft_containers/Red black tree erase case.jpg",
-    "42/ft_containers/allocator.md"
+    "42/webserv/getsockname.md",
+    "42/webserv/http.md"
   ]
 }
