@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "64dd11f115276eec",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1059e12a37ee819",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d019bab7dc89d6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "42/ft_containers/allocator.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "581ad9ddd599e121",
+    "type": "split",
+    "children": [
+      {
+        "id": "35ce84508d71ce26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a9030fd66733cf0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "298c55f3f0f1e68f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9d5fea44e488fed9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3a7b8fb2373e2069",
+    "type": "split",
+    "children": [
+      {
+        "id": "58835898711b27b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1d209134a0bfe68",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "42/ft_containers/allocator.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4da7b71c1fe660d7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "42/ft_containers/allocator.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7931af0406eca03d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "80cb7a8890a330f7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "42/ft_containers/allocator.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "5d019bab7dc89d6c",
+  "lastOpenFiles": []
+}
