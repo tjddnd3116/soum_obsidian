@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "fbbfd03ad5746275",
+    "type": "split",
+    "children": [
+      {
+        "id": "21af79668da16c6e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "42/inception/dockerfile -php-fpm & wordpress.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "77c103b99ff90e53",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7c6bcbda3e7084a9",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "a04d0daf0b90e611",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f52d73610c4be30b",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "96146bac5859bd3b",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "876a9bbfd2514d1d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "328ba9c67b123943",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "42/inception/dockerfile -php-fpm & wordpress.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e5c4389666437c47",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "42/inception/dockerfile -php-fpm & wordpress.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f146ffd7b0fa181e",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "42/inception/dockerfile -php-fpm & wordpress.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "21af79668da16c6e",
+  "lastOpenFiles": [
+    "42/inception/php-fpm, wordpress.md",
+    "42/inception/dockerfile -php-fpm & wordpress.md",
+    "42/inception/dockerfile -nginx.md",
+    "42/inception/dockerfile -mariad.md",
+    "42/ft_containers/vector.md",
+    "42/inception/mariadb.md",
+    "2022-10-14.md",
+    "42/inception/docker.md",
+    "42/webserv/accept.md",
+    "2022-10-08.md"
+  ]
+}
