@@ -14,8 +14,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "f4a88ff9bd432f71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "42/webserv/kiii.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "42/webserv/kiii.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "42/webserv/kiii.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "42/webserv/kiii.md"
+              }
             }
           }
         ]
@@ -131,15 +148,15 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "5d019bab7dc89d6c",
+  "active": "f4a88ff9bd432f71",
   "lastOpenFiles": [
+    "2022-10-15.md",
     "42/webserv/socket.md",
     "42/webserv/accept.md",
     "screenshot.jpg",
     "2022-10-14.md",
     "2022-10-08.md",
     "42/ft_containers/Red black tree erase case.jpg",
-    "2022-10-15.md",
     "42/ft_containers/allocator.md"
   ]
 }
