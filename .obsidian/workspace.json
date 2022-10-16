@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -142,6 +143,8 @@
   },
   "active": "63d6a8cd8a1213db",
   "lastOpenFiles": [
+    "42/inception/dockerfile -nginx.md",
+    "2022-10-16.md",
     "2022-10-15.md",
     "42/webserv/RFC 7230.md",
     "42/webserv/fcntl.md",
@@ -149,8 +152,6 @@
     "42/inception/docker 명령어.md",
     "42/webserv/epoll.md",
     "42/webserv/connect.md",
-    "42/webserv/bind.md",
-    "42/webserv/accept.md",
-    "42/webserv/getsockname.md"
+    "42/webserv/bind.md"
   ]
 }
