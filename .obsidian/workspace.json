@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-10-16.md",
+                "file": "2022-10-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,13 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3a7b8fb2373e2069",
@@ -87,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10-16.md",
+                "file": "2022-10-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-10-16.md",
+                "file": "2022-10-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-10-16.md"
+                "file": "2022-10-17.md"
               }
             }
           }
@@ -143,15 +141,15 @@
   },
   "active": "63d6a8cd8a1213db",
   "lastOpenFiles": [
-    "42/inception/dockerfile -nginx.md",
     "2022-10-16.md",
     "2022-10-15.md",
+    "2022-10-17.md",
     "42/webserv/RFC 7230.md",
+    "42/inception/dockerfile -nginx.md",
     "42/webserv/fcntl.md",
     "무제파일.md",
     "42/inception/docker 명령어.md",
     "42/webserv/epoll.md",
-    "42/webserv/connect.md",
-    "42/webserv/bind.md"
+    "42/webserv/connect.md"
   ]
 }
