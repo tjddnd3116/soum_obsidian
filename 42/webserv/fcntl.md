@@ -49,3 +49,5 @@ int fcntl(int fd, int cmd, struct flock *lock);
 - 그러면서 특별한 설정이 없을경우 열린 파일디스크립터를 그대로 넘겨주게 된다.
 - 때때로 exec를 이용해서 프로세스를 만들기전에 기존에 열렸던 파일 디스크립터들을 깨끗하게 정리하고 싶을때가 있다.
 - 이러한 경우 close-on-exec 시킨다고 말하며 fcntl을 이용해서 열린 파일 디스크립터에 대해서 close-on-exec 작동을 하도록 할 수 있다.
+
+#webserv 

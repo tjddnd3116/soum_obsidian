@@ -72,3 +72,5 @@ int poll(struct pollfd *fds, nfds_t nfds, int timeout);
 ## notes
 - poll()은 O_NONBLOCK 플래그의 영향을 받지 않습니다.
 - 일부 유닉스 시스템에서는 리눅스의 ENOMEM 에러 처럼 할당에 실패할때 EAGAIN에러를 발생합니다.
+
+#webserv 

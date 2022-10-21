@@ -35,3 +35,5 @@ int listen(int sockfd, int backlog);
 	2. 소켓은 bind(2)를 사용하여 로컬 주소에 바인딩 되므로 다른 소켓이 connect(2)될수 있습니다.
 	3. 연결 요청의 수락과 연결 요청을 위한 큐 제한은 listen()으로 지정됩니다.
 	4. accept(2)로 연결을 수락합니다.
+
+#webserv 

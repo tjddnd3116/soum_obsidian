@@ -113,3 +113,5 @@ int socket(int domain, int type, int protocol);
 - ENFILE : 열린 파일의 총 개수가 시스템 전체의 한계의 도달했습니다.
 - ENOBUFS or ENOMEM : 사용 가능한 메모리가 부족합니다. 충분한 리소스가 해제될 때까지 소켓을 생성할수 없습니다.
 - EPROTONOSUPPORT : 프로토콜 타입이나 지정된 프로토콜이 이 도메인을 지원할 수 없습니다.
+
+#webserv 

@@ -149,3 +149,5 @@ recvfrom(fd, buf, len, flags, NULL, 0);
 socklen_t 타입은 POSIX에서 고안한 것이다. [[accept]] 참고
 POSIX.1 에 따르면 msghdr 구조체의 msg_controllen 필드가 socklen_t 타입이어야 하고 msg_iovlen 필드가 int 타입이어야 하지만 glibc에서는 현재 둘 모두 size_t 타입으로 하고 있다.
 호출 한번에 여러 데이터그램을 수신할 수 있는 리눅스 전용 시스템 콜에대한 내용은 recvmmsg(2)를 보라
+
+#webserv 

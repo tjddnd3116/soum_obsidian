@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": false,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:42/ft_containers",
@@ -27,18 +27,25 @@
         "a": 1,
         "rgb": 11657298
       }
+    },
+    {
+      "query": "path:daily",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 1.63127076693565,
   "lineSizeMultiplier": 3.6165898148776,
   "collapse-forces": false,
-  "centerStrength": 0.600934753002352,
-  "repelStrength": 11.9184103008543,
-  "linkStrength": 0.638324873096447,
-  "linkDistance": 121,
-  "scale": 1.9298912318821824,
+  "centerStrength": 0.602325896792568,
+  "repelStrength": 10.2590357360819,
+  "linkStrength": 0.943513935037635,
+  "linkDistance": 94,
+  "scale": 1.75188469507223,
   "close": true
 }

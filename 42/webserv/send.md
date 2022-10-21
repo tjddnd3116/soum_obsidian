@@ -23,3 +23,4 @@ ssize_t send(int sockfd, const void *buf, size_t len, int flags)
 	- MSG_OOB : OOB(out-of-band)데이터를 전송한다.
 	- MSG_WAITALL : 요청한 데이터의 크기가 모두 차야지 함수를 반환한다. 하지만 이식성의 문제로 이 플래그를 사용하는 일은 드물다. 그냥 반복해서 데이터를 읽는 방법을 권장한다.
 	- MSG_DONTWAIT : non-block으로 작동하도록 한다. non-block으로 작동하게 하려면 fcntl(2) 함수로 O_NONBLOCK 설정을 해주어야 한다. non-block 으로 작동하면 recv함수는 바로 리턴된다. 이때 EAGAIN 혹은 EWOULDBLOCK을 errno으로 설정한다. 프로그램은 errno 값을 읽어서 소켓에 에러가 발생해서 반환한 것인지 아니면 non-block 특성으로 반환한 것인지 확인할 수 있다.
+#webserv 

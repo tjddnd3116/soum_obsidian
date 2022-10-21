@@ -97,3 +97,5 @@ accept가 결코 봉쇄되지 않는다는 것을 보장하기 위해, 전달된
 - EOPNOTSUPP : 참조된 소켓이 SOCK_STREM 타입이 아닙니다.
 - EPERM : 방화벽 규칙이 연결을 금지합니다.
 - EPROTO : 프로토콜 에러
+
+#webserv

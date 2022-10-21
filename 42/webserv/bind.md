@@ -40,3 +40,5 @@ struct sockaddr{
 - ENOTSOCK : 파일 디스크립터 sockfd가 소켓을 참조하지 않습니다.
 - EROFS : 소켓 inode가 읽기전용 파일 시스템에 있습니다.
 - ENOENT : 소켓 경로의 디렉토리가 존재하지 않습니다.
+
+#webserv
