@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2022-10-26.md",
+                "file": "daily/2022-10-27.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0e74dfeccc012a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "42/webserv/HTTP Chunked transfer encoding.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-10-26.md",
+                "file": "42/webserv/HTTP Chunked transfer encoding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2022-10-26.md",
+                "file": "42/webserv/HTTP Chunked transfer encoding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2022-10-26.md"
+                "file": "42/webserv/HTTP Chunked transfer encoding.md"
               }
             }
           }
@@ -140,17 +153,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "33258c2db9fe6a9d",
+  "active": "f0e74dfeccc012a2",
   "lastOpenFiles": [
-    "daily/2022-10-25.md",
+    "daily/2022-10-27.md",
     "daily/2022-10-26.md",
+    "daily/2022-10-25.md",
     "42/webserv/http.md",
     "42/webserv/recv.md",
     "42/webserv/poll.md",
     "42/webserv/listen.md",
     "42/webserv/inet_addr.md",
     "42/webserv/RFC 7230.md",
-    "daily/2022-10-21.md",
-    "daily/2022-10-17.md"
+    "daily/2022-10-21.md"
   ]
 }
