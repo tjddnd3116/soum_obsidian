@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "42/webserv/HTTP Chunked transfer encoding.md",
+                "file": "daily/2022-10-31.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "42/webserv/HTTP Chunked transfer encoding.md",
+                "file": "daily/2022-10-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "42/webserv/HTTP Chunked transfer encoding.md",
+                "file": "daily/2022-10-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "42/webserv/HTTP Chunked transfer encoding.md"
+                "file": "daily/2022-10-31.md"
               }
             }
           }
@@ -150,11 +150,9 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
   "active": "f0e74dfeccc012a2",
   "lastOpenFiles": [
+    "42/webserv/HTTP Chunked transfer encoding.md",
     "daily/2022-10-27.md",
     "daily/2022-10-26.md",
     "daily/2022-10-25.md",
@@ -163,7 +161,6 @@
     "42/webserv/poll.md",
     "42/webserv/listen.md",
     "42/webserv/inet_addr.md",
-    "42/webserv/RFC 7230.md",
-    "daily/2022-10-21.md"
+    "42/webserv/RFC 7230.md"
   ]
 }
