@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2022-11-01.md",
+                "file": "daily/2022-11-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-11-01.md",
+                "file": "daily/2022-11-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2022-11-01.md",
+                "file": "daily/2022-11-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2022-11-01.md"
+                "file": "daily/2022-11-02.md"
               }
             }
           }
@@ -138,15 +138,15 @@
   },
   "active": "f0e74dfeccc012a2",
   "lastOpenFiles": [
-    "daily/2022-10-31.md",
     "daily/2022-10-15.md",
+    "daily/2022-11-02.md",
+    "daily/2022-11-01.md",
+    "daily/2022-10-31.md",
     "daily/2022-10-16.md",
     "daily/2022-10-17.md",
     "daily/2022-10-21.md",
     "daily/2022-10-26.md",
     "daily/2022-10-27.md",
-    "daily/2022-11-01.md",
-    "42/webserv/HTTP Chunked transfer encoding.md",
-    "daily/2022-10-25.md"
+    "42/webserv/HTTP Chunked transfer encoding.md"
   ]
 }
